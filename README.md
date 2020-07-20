@@ -1,6 +1,6 @@
 # ECD #
 
-Implementation of "Evolutionary Community Detection in Dynamic Social Networks".
+Implementation of "[Evolutionary Community Detection in Dynamic Social Networks](https://ieeexplore.ieee.org/abstract/document/8852006)".
 
 If you find this method helpful for your research, please cite this paper.
 
